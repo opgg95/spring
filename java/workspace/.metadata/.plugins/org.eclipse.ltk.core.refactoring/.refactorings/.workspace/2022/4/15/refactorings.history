@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pocketmon&apos; to &apos;pokemon&apos;" description="Rename resource &apos;pocketmon&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/pocketmon" name="pokemon" stamp="1649174133492" updateReferences="true"/>
+</session>
