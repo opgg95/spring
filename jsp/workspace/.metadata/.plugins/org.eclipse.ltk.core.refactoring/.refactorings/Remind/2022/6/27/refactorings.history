@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;boardwrite.jsp&apos; to &apos;board&apos;&#x0D;&#x0A;- Original project: &apos;Remind&apos;&#x0D;&#x0A;- Destination element: &apos;board&apos;&#x0D;&#x0A;- Original element: &apos;boardwrite.jsp&apos;" description="Copy file" element1="WebContent/app/board/boardwrite.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656311637863" target="/Remind/WebContent/app/board" units="0" version="1.0"/>
+</session>

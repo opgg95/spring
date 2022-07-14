@@ -1,0 +1,13 @@
+127.0.0.1 - - [28/Jun/2022:17:26:23 +0900] "GET / HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:26:49 +0900] "GET /index.jsp HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:17:26:54 +0900] "GET /board/Boardlist.bo HTTP/1.1" 200 6614
+127.0.0.1 - - [28/Jun/2022:23:44:46 +0900] "GET / HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:45:33 +0900] "GET /index.jsp HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:45:37 +0900] "GET /board/Boardlist.bo HTTP/1.1" 200 3386
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:45:46 +0900] "GET /board/BoardView.bo?boardnum=1 HTTP/1.1" 200 2819
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:46:03 +0900] "POST /board/AddReply.bo HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:46:03 +0900] "GET /board/BoardView.bo?boardnum=1 HTTP/1.1" 200 3323
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:47:00 +0900] "POST /board/UpdateReply.bo?replynum=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:47:00 +0900] "GET /board/BoardView.bo?boardnum=1 HTTP/1.1" 200 3330
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:47:06 +0900] "POST /board/DeleteReply.bo?replynum=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Jun/2022:23:47:06 +0900] "GET /board/BoardView.bo?boardnum=1 HTTP/1.1" 200 2819

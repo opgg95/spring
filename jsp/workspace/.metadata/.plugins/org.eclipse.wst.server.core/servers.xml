@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day01-config" deployDir="wtpwebapps" hostname="localhost" id="day01" name="day01" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="4">
+    <list key="modules" value0="day001::org.eclipse.jst.jee.server:day001::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day02-config" deployDir="wtpwebapps" hostname="localhost" id="day02" name="day02" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day02::org.eclipse.jst.jee.server:day02::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day03-config" deployDir="wtpwebapps" hostname="localhost" id="day03" name="day03" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day03::org.eclipse.jst.jee.server:day03::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day04-config" deployDir="wtpwebapps" hostname="localhost" id="day04" name="day04" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day04::org.eclipse.jst.jee.server:day04::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day05-config" deployDir="wtpwebapps" hostname="localhost" id="day05" name="day05" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day05::org.eclipse.jst.jee.server:day05::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day06-config" deployDir="wtpwebapps" hostname="localhost" id="day06" name="day06" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day06::org.eclipse.jst.jee.server:day06::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day07-config" deployDir="wtpwebapps" hostname="localhost" id="day07" name="day07" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="day07::org.eclipse.jst.jee.server:day07::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day08-config" deployDir="wtpwebapps" hostname="localhost" id="day08" name="day08" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day08::org.eclipse.jst.jee.server:day08::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day09-config" deployDir="wtpwebapps" hostname="localhost" id="day09" name="day09" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day09::org.eclipse.jst.jee.server:day09::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/testjava-config" deployDir="wtpwebapps" hostname="localhost" id="testjava" name="testjava" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="testjava::org.eclipse.jst.jee.server:testjava::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/bootstrap-config" deployDir="wtpwebapps" hostname="localhost" id="bootstrap" name="bootstrap" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="9">
+    <list key="modules" value0="bootstrap::org.eclipse.jst.jee.server:bootstrap::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day10-config" deployDir="wtpwebapps" hostname="localhost" id="day10" name="day10" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day10::org.eclipse.jst.jee.server:day10::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day11-config" deployDir="wtpwebapps" hostname="localhost" id="day11" name="day11" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="13">
+    <list key="modules" value0="day11::org.eclipse.jst.jee.server:day11::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day12-config" deployDir="wtpwebapps" hostname="localhost" id="day12" name="day12" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day12::org.eclipse.jst.jee.server:day12::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day13-config" deployDir="wtpwebapps" hostname="localhost" id="day13" name="day13" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day13::org.eclipse.jst.jee.server:day13::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day14-config" deployDir="wtpwebapps" hostname="localhost" id="day14" name="day14" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day14::org.eclipse.jst.jee.server:day14::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/user-config" deployDir="wtpwebapps" hostname="localhost" id="user" name="user" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="user::org.eclipse.jst.jee.server:user::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day15-config" deployDir="wtpwebapps" hostname="localhost" id="day15" name="day15" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day15::org.eclipse.jst.jee.server:day15::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/day16-config" deployDir="wtpwebapps" hostname="localhost" id="day16" name="day16" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="day16::org.eclipse.jst.jee.server:day16::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/board_mvc2-config" deployDir="wtpwebapps" hostname="localhost" id="board_mvc2" name="board_mvc2" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="board_mvc2::org.eclipse.jst.jee.server:board_mvc2::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Project_board-config" deployDir="wtpwebapps" hostname="localhost" id="Project_board" name="Project_board" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="Project_board::org.eclipse.jst.jee.server:Project_board::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Remind-config" deployDir="wtpwebapps" hostname="localhost" id="Remind" name="Remind" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="Remind::org.eclipse.jst.jee.server:Remind::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/project_caravle-config" deployDir="wtpwebapps" hostname="localhost" id="project_caravle" name="project_caravle_preview" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="6">
+    <list key="modules" value0="project_caravle_preview::org.eclipse.jst.jee.server:project_caravle_preview::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/project_caravle-config" deployDir="wtpwebapps" hostname="localhost" id="project_caravle_1656593837197" name="project_caravle" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="project_caravle::org.eclipse.jst.jee.server:project_caravle::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Test_java2-config" deployDir="wtpwebapps" hostname="localhost" id="Test_java2" name="Test_java2" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="Test_java2::org.eclipse.jst.jee.server:Test_java2::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Test_java3-config" deployDir="wtpwebapps" hostname="localhost" id="Test_java3" name="Test_java3" runtime-id="day01" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="Test_java3::org.eclipse.jst.jee.server:Test_java3::jst.web::3.1"/>
+  </server>
+</servers>
